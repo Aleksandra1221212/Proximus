@@ -9,7 +9,7 @@ resistance to analysis- Do you know ?There is a lot of work devoted to Bitcoin b
 The ultimate goal of Proximus is to become the best anonymous cryptocurrency in the world.
 
                                                      FEATURES:
+                                                     
                                                Untraceable payments
-                                           Blockchain analysis resistance
-                                            Unlinkable transactions
-                                         Transaction remote release
+                                           
+                                           
