@@ -15,6 +15,10 @@ The ultimate goal of Proximus is to become the best anonymous cryptocurrency in 
                                              Unlinkable transactions.
                
                                          Blockchain analysis resistance.
+                                
+                                This project is based on CryptoNote technology                              
+                                         
+                                         read the white paper to learn more..
                                                
                                                
                                            
