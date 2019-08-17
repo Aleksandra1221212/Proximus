@@ -8,7 +8,7 @@ your payments are impossible to track bicouse the technology uses the ring signa
 resistance to analysis- Do you know ?There is a lot of work devoted to Bitcoin block chain analysis. Their authors follow the flow of money, identify the owners of coins, determine the balance of the portfolio and so on. In our case, it is impossible because our code is not explicit.
 The ultimate goal of Proximus is to become the best anonymous cryptocurrency in the world.
 
-                                                      FEATURES:
+                                                       FEATURES:
                                                      
                                                  Untraceable payments.
                                                
