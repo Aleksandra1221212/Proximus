@@ -10,9 +10,9 @@ The ultimate goal of Proximus is to become the best anonymous cryptocurrency in 
 
                                                      FEATURES:
                                                      
-                                                Untraceable payments.
+                                                 Untraceable payments.
                                                
-                                              Unlinkable transactions.
+                                               Unlinkable transactions.
                
                                            Blockchain analysis resistance.
                                 
