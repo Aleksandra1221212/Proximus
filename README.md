@@ -70,3 +70,4 @@ which serves as a database of public financial transactions.
 #                             You can read a detailed description of the cryptocurrency in the white paper.
 
 ​
+![3D-1121-blue](https://user-images.githubusercontent.com/51268226/65818668-f4278f00-e213-11e9-8625-f55dc7eca536.jpg)
