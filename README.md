@@ -6,7 +6,7 @@
  
 
 
-The issue of privacy in digital space is currently a widely discussed topic.
+                 The issue of privacy in digital space is currently a widely discussed topic.
 Questions asked to technology companies are often met with the loud assurance that all data shared is anonymous and confidential information is immediately removed from the system.
 Nothing could be more wrong. In fact, the situation is completely different. that's why the Proximus cryptocurrency was created, through to which you can know that you are anonymous.
 
